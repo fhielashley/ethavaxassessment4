@@ -66,8 +66,8 @@ Functionalities
 
 (7) Once the contract is deployed, you can interact with it by calling the mint, burn function, transfer and much more.
 
-Author
+# Author
 Fhiel 
 GitHub: @fhielashley
-License
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
