@@ -2,7 +2,7 @@
 
 ETH+AVAX Assessment 4
 
-#Overview
+# Overview
 This program is a ERC20 token deployed on Avalanche Fuji Testnet and written in Solidity, a programming language used for developing smart contracts on the blockchain. The contract details are listed below :
 
 Token Name: Degen
